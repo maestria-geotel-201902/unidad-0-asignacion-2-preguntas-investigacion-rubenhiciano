@@ -11,11 +11,11 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Cual es la variacion espacial del indice de precio de los terrenos en sector xxx?
 
-* ...
+* Cuales son los aparametros del entorno que influyen en la variacion de estos precios?
 
-* ...
+* parametros del entorno, nivel de ingreso economico de las personas, nivel de educacion, densidad poblacional, sectores alrededor y uso de suelo
 
 * ...
 
